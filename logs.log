@@ -1,0 +1,17 @@
+2025-06-12 23:15:36.965 | INFO     | __main__:index:47 - IP: 127.0.0.1 | Nome:  | Email:  | Comentário: 
+2025-06-12 23:16:24.397 | INFO     | __main__:index:47 - IP: 127.0.0.1 | Nome: eduardo | Email: gomes | Comentário: &lt;script&gt;alert("xss")&lt;/script&gt;
+2025-06-12 23:16:25.505 | INFO     | __main__:index:47 - IP: 127.0.0.1 | Nome:  | Email:  | Comentário: 
+2025-06-12 23:16:36.587 | INFO     | __main__:index:47 - IP: 127.0.0.1 | Nome: eduardo | Email: gomes | Comentário: &lt;script&gt;alert("xss")&lt;/script&gt;
+2025-06-12 23:16:45.428 | INFO     | __main__:index:47 - IP: 127.0.0.1 | Nome: eduardo | Email: gomes | Comentário: &lt;script&gt;alert("xss")&lt;/script&gt;
+2025-06-12 23:16:51.333 | INFO     | __main__:index:47 - IP: 127.0.0.1 | Nome: eduardo | Email: gomes | Comentário: &lt;script&gt;alert("xss")&lt;/script&gt;
+2025-06-12 23:16:51.334 | WARNING  | __main__:index:52 - Muitas tentativas do IP 127.0.0.1
+2025-06-12 23:17:19.789 | INFO     | __main__:index:47 - IP: 127.0.0.1 | Nome:  | Email:  | Comentário: 
+2025-06-12 23:17:19.791 | WARNING  | __main__:index:52 - Muitas tentativas do IP 127.0.0.1
+2025-06-12 23:17:22.493 | INFO     | __main__:index:47 - IP: 127.0.0.1 | Nome:  | Email:  | Comentário: 
+2025-06-12 23:17:22.493 | WARNING  | __main__:index:52 - Muitas tentativas do IP 127.0.0.1
+2025-06-12 23:17:23.081 | INFO     | __main__:index:47 - IP: 127.0.0.1 | Nome:  | Email:  | Comentário: 
+2025-06-12 23:17:23.081 | WARNING  | __main__:index:52 - Muitas tentativas do IP 127.0.0.1
+2025-06-12 23:17:23.223 | INFO     | __main__:index:47 - IP: 127.0.0.1 | Nome:  | Email:  | Comentário: 
+2025-06-12 23:17:23.224 | WARNING  | __main__:index:52 - Muitas tentativas do IP 127.0.0.1
+2025-06-12 23:17:24.643 | INFO     | __main__:index:47 - IP: 127.0.0.1 | Nome:  | Email:  | Comentário: 
+2025-06-12 23:17:24.644 | WARNING  | __main__:index:52 - Muitas tentativas do IP 127.0.0.1
